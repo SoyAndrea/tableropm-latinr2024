@@ -1,0 +1,54 @@
+---
+title: "Tablero estadístico en shinydashboard de personas mayores en Argentina"
+author: "Andrea Gomez Vargas, Juan Manuel Damiani, Barbara Estévez Leston y Leandro Olivo"
+format:
+  revealjs: 
+    theme: custom.scss
+    self-contained: false
+    slide-number: c/t
+    logo: images/LatinR_hex_secundario.png
+    css: logo.css
+    #footer: "[**shiny.indec.gob.ar/tablero_pm**](https://shiny.indec.gob.ar/tablero_pm/)"
+from: markdown+emoji
+---
+
+## ¡Hola 👋!
+
+
+<br>
+<br>
+Equipo de la **Dirección de Estadísticas Sectoriales** dependiente de la Dirección Nacional de Estadísticas Sociales y de Población del Instituto Nacional de Estadística y Censos de la República Argentina (INDEC). 
+
+
+
+
+## Publicación tradicional :books:
+
+![](images/dosierspm.png)
+
+## 
+
+![](images/dosier_fisico.png)
+
+## Paquetes de trabajo 
+
+![](images/paquetes.png)
+
+
+## Control de versiones con git & GitHub
+
+
+![](images/git.png)
+
+
+## Tablero estadístico  :chart_with_upwards_trend:
+
+
+```{r}
+knitr::include_url("https://shiny.indec.gob.ar/tablero_pm/",height = 600)
+```
+
+
+# Gracias
+
+
