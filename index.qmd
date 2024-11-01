@@ -1,6 +1,6 @@
 ---
 title: "Tablero estadístico en shinydashboard de personas mayores en Argentina"
-author: "Andrea Gomez Vargas, Juan Manuel Damiani, Barbara Estévez Leston y Leandro Olivo"
+author: "Andrea Gomez Vargas, Juan Manuel Damiani, Bárbara Estévez Leston y Leandro Olivo"
 format:
   revealjs: 
     theme: custom.scss
