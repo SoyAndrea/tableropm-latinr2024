@@ -3,6 +3,8 @@
 ## Charla LatinR 2024
 ### Panel: Automatización de procesos, gestión de datos y reportes
 
+Video presentación https://youtu.be/Ofy3PPZXh0M?si=ydCrRBQlKEmya8Xo 
+
 En esta presentación compartiremos el tablero estadístico elaborado por la Dirección de Estadísticas Sectoriales del INDEC de Argentina sobre la población de personas mayores y su proceso de migración de productos estadísticos en formato estándar (PDF) a herramientas interactivas de visualización de datos(Shiny, Plotly, Leaflet, entre otros), y los diferentes paquetes que brinda R en la búsqueda de innovación en la presentación de estadísticas oficiales. 
 
 Autores
